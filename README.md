@@ -1,7 +1,6 @@
 ### Hi there👋
 ####  I'm Shreyansh Gupta
-###### **Computer science undergraduate.** 
-###### *A diligent, responsible, quick learner, a technical-enthusiast, motivated, and ambitious student with a strong work ethic and passionate about technology. Seeking opportunities to improve my skills,experience a productive culture in technical line of work, and knowledge to grow.*
+###### *Computer science undergraduate.*
 
 
 <!--
